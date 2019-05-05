@@ -1,4 +1,5 @@
-#Your job is to sign each of these promising young music stars to the appropriate label.
+#Passing Info to an Array
+##Your job is to sign each of these promising young music stars to the appropriate label.
 
 1. JumpStop Records works with Funk and Rap artists.
 1. Chatten Records works with Country and Bluegrass artists.
